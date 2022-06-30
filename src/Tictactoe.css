@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    height: 836px;
+	background-color: #F3B18C;
+}
+
+p {
+    position: absolute;
+    width: 254px;
+    height: 25px;
+    margin-top: 90px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 155px;
+    top: 40px;
+    left: 670px;
+    color: #0026ED;
+}
+
+.normal {
+	width: 100px;
+	height: 100px;
+	background: #FFFFFF;
+    border: 10px solid #000000;
+    border-radius: 10px;
+}
+
+#el0 {
+    position:absolute;
+    top: 245px;
+    left: 642px;
+}
+
+#el1 {
+    position:absolute;
+    top: 245px;
+    left: 752px;
+}
+
+#el2 {
+    position: absolute;
+    top: 245px;
+    left: 862px;
+}
+
+#el3 {
+    position:absolute;
+    top: 355px;
+    left: 642px;
+}
+
+#el4 {
+    position:absolute;
+    top: 355px;
+    left: 752px;
+}
+
+#el5 {
+    position:absolute;
+    top: 355px;
+    left: 862px;
+}
+
+#el6 {
+    position:absolute;
+    top: 465px;
+    left: 642px;
+}
+
+#el7 {
+    position:absolute;
+    top: 465px;
+    left: 752px;
+}
+
+#el8 {
+    position:absolute;
+    top: 465px;
+    left: 862px;
+}
+
+.normal:hover {
+	background-color: rgb(202, 200, 200);
+}
+
+.xli {
+	font-family: 'Finger Paint';
+    color: red;
+    font-size: 56px;    
+}
+
+.xli:hover {
+    color: white;
+    background-color: red;
+}
+
+.winnerx {
+	border: 10px solid #FF0505;
+}
+
+.olu {
+    font-family: 'Finger Paint';
+    color: blue;
+    font-size: 56px;
+}
+
+.olu:hover {
+    color: white;
+    background-color: blue;
+}
+
+.winnero {
+	border: 10px solid #0026ED;
+}
