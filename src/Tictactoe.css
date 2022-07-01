@@ -3,23 +3,24 @@
 }
 
 .container {
-    height: 836px;
 	background-color: #F3B18C;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    
 }
 
 p {
-    position: absolute;
-    width: 254px;
-    height: 25px;
-    margin-top: 90px;
     font-family: 'Finger Paint';
     font-style: normal;
-    font-weight: 400;
     font-size: 44px;
-    line-height: 155px;
-    top: 40px;
-    left: 670px;
     color: #0026ED;
+
+    position: absolute;
+    left: 38%;
+    margin-left: 30px;
+    top: 80px; 
+
 }
 
 .normal {
@@ -31,57 +32,63 @@ p {
 }
 
 #el0 {
-    position:absolute;
-    top: 245px;
-    left: 642px;
+    position: absolute;
+    top: 200px;
+    left: 38%;
 }
 
 #el1 {
-    position:absolute;
-    top: 245px;
-    left: 752px;
+    position: absolute;
+    top: 200px;
+    left: 38%;
+    margin-left: 110px;
 }
 
 #el2 {
     position: absolute;
-    top: 245px;
-    left: 862px;
+    top: 200px;
+    left: 38%;
+    margin-left: 220px;
 }
 
 #el3 {
-    position:absolute;
-    top: 355px;
-    left: 642px;
+    position: absolute;
+    top: 310px;
+    left: 38%;
 }
 
 #el4 {
-    position:absolute;
-    top: 355px;
-    left: 752px;
+    position: absolute;
+    top: 310px;
+    left: 38%;
+    margin-left: 110px;
 }
 
 #el5 {
-    position:absolute;
-    top: 355px;
-    left: 862px;
+    position: absolute;
+    top: 310px;
+    left: 38%;
+    margin-left: 220px;
 }
 
 #el6 {
-    position:absolute;
-    top: 465px;
-    left: 642px;
+    position: absolute;
+    top: 420px;
+    left: 38%;
 }
 
 #el7 {
-    position:absolute;
-    top: 465px;
-    left: 752px;
+    position: absolute;
+    top: 420px;
+    left: 38%;
+    margin-left: 110px;
 }
 
 #el8 {
-    position:absolute;
-    top: 465px;
-    left: 862px;
+    position: absolute;
+    top: 420px;
+    left: 38%;
+    margin-left: 220px;
 }
 
 .normal:hover {
