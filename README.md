@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Game Link
 
-Open [https://tic-tac-toe-git-main-cngnnli.vercel.app/](https://tic-tac-b4aoix8je-cngnnli.vercel.app/)]
+Open [https://tic-tac-j43iv0qtj-cngnnli.vercel.app/]
 
 ## Available Scripts
 
